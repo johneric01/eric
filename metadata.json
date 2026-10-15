@@ -1,0 +1,6 @@
+{
+  "name": "CineReserve – Cinema Ticket Reservation System",
+  "description": "Comprehensive cinema ticket reservation system featuring movie schedules, interactive seat matrix booking, customer management, screening management, and administrative reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
